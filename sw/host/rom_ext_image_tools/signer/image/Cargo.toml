@@ -11,4 +11,4 @@ edition = "2018"
 [dependencies]
 memoffset = "0.6.0"
 thiserror = "1.0.24"
-zerocopy = "0.5.0"
+zerocopy = "0.6.0"
